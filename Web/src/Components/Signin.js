@@ -23,6 +23,7 @@ export const Signin = () => {
             alert('Please enter a password.');
             return;
         }
+        navigate.push("/")
     }
 
 

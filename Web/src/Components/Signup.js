@@ -27,6 +27,7 @@ export const Signup = () => {
             alert("password and confirm password mismatched")
             return;
         }
+        
 
     }
     const Loginpush = () => {
